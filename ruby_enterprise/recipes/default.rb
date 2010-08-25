@@ -5,10 +5,12 @@
 # Author:: Joshua Timberman (<joshua@opscode.com>)
 # Author:: Sean Cribbs (<seancribbs@gmail.com>)
 # Author:: Michael Hale (<mikehale@gmail.com>)
+# Author:: Sasha Gerrand (<sasha@gerrand.net>)
 # 
 # Copyright:: 2009-2010, Opscode, Inc.
 # Copyright:: 2009, Sean Cribbs
 # Copyright:: 2009, Michael Hale
+# Copyright:: 2010, Sasha Gerrand
 #
 # Licensed under the Apache License, Version 2.0 (the "License");
 # you may not use this file except in compliance with the License.
